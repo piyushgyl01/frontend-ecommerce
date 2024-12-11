@@ -75,7 +75,7 @@ export default function Homepage() {
               <Link to="/products?category=Men">
                 <img
                   className="img-fluid rounded"
-                  src="../src/assets/men-category.png"
+                  src="https://drive.google.com/file/d/1-7QzESKJsDztR98An6Q6M9l2xlzxf1DT/view?usp=sharing"
                   alt="Men's Category"
                 />
               </Link>
@@ -85,7 +85,7 @@ export default function Homepage() {
               <Link to="/products?category=Women">
                 <img
                   className="img-fluid rounded"
-                  src="../src/assets/women=category.png"
+                  src="https://drive.google.com/open?id=1-8RMGsikKFwkdCm5gVPg5L_dM6C79xYo&usp=drive_fs"
                   alt="Women's Category"
                 />
               </Link>
