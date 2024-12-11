@@ -75,7 +75,7 @@ export default function Homepage() {
               <Link to="/products?category=Men">
                 <img
                   className="img-fluid rounded"
-                  src="../src/assets/men-category.png"
+                  src="/src/assets/men-category.png"
                   alt="Men's Category"
                 />
               </Link>
@@ -85,10 +85,11 @@ export default function Homepage() {
               <Link to="/products?category=Women">
                 <img
                   className="img-fluid rounded"
-                  src="../src/assets/women=category.png"
+                  src="/src/assets/women=category.png"
                   alt="Women's Category"
                 />
               </Link>
+              {/* //ehhe */}
             </div>
           </div>
           <div className="row ">
